@@ -1,6 +1,12 @@
 # CISC374-BirdTutorial
-This is a tutorial project used to overview Unity3D in CISC374.
+A simple recreation of the Flappy Bird game!
 
-Reference of Audios Used:
-https://pixabay.com/sound-effects/search/sound%20effect/
+
+Audio References
+- "Fly" sound effect  sourced from Pixabay ([URL]).
+- "Hit" sound effect sourced from Pixabay ([URL]).
+- "Bonus" sound effect sourced from Pixabay ([URL]).
+References
+2023. "The Unity Tutorial for Complete Beginners." The Game Makers Toolkit.
+Martin Jonasson and Petri Purho. 2012. "Juice it or loose it." Grapefrukt Games
 
