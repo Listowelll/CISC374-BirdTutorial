@@ -8,6 +8,7 @@ public class LogicScript : MonoBehaviour
    public GameObject gameOverScreen;
 
    public bool isGameOver = false;
+
    public AudioSource bonusSFX;
    public Text highScoreText;
 
@@ -45,6 +46,8 @@ public class LogicScript : MonoBehaviour
         
    }
 
+     //Function to save the highest score of every play
+
      private void SaveHighScore()
     {
       
@@ -60,7 +63,7 @@ public class LogicScript : MonoBehaviour
        
         LoadHighScore();
     }
-
+//Function to load the highscore on screen when the game starts 
     private void LoadHighScore()
     {
         
